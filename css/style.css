@@ -55,7 +55,7 @@
 }
 
 label {
-    color: #f8f0f0;
+    color: #111111;
 }
 
 #validationCustom03, #validationCustom04, #validationCustom05, #validationCustom01, #validationCustom02, #validationCustomUsername, #inputGroupPrepend {
@@ -64,3 +64,29 @@ label {
     border: none;
 }
  
+.europa{
+background-image: url(../img/ivan-benets-jtdR0Q2RRuY-unsplash.jpg);
+    background-size: cover;
+}
+
+.banner-paris {
+    background-image: url(../img/parisponto.jpg);
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+} 
+
+.banner-budapest {
+    background-image: url(../img/BUDAPESTBANNER.jpg);
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+} 
+ 
+.banner-berlim{
+    background-image: url(../img/BERLIMBANNER.jpg);
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+} 
+
